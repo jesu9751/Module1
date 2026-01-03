@@ -16,5 +16,7 @@ print(b)
 ```
 
 ## Output
+<img width="951" height="250" alt="image" src="https://github.com/user-attachments/assets/2093eaaa-c966-481e-88d1-738a026fcfec" />
+
 
 ## Result
