@@ -27,4 +27,6 @@ print("d:",d)
 ```
 
 ## Output
+<img width="1112" height="283" alt="image" src="https://github.com/user-attachments/assets/17479277-f5b5-4eb9-9343-263db8bbaf32" />
+
 ## Result
