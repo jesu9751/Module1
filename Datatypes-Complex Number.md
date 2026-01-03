@@ -22,4 +22,6 @@ print(x.imag)
 ```
 ## Output
 
+<img width="887" height="224" alt="image" src="https://github.com/user-attachments/assets/6d49ca57-832b-4108-bc36-70d867666108" />
+
 ## Result
